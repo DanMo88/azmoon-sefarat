@@ -1,4 +1,4 @@
-var CACHE='azmoon-sefarat-v1';
+var CACHE='azmoon-sefarat-v2';
 var FILES=['./','index.html','app.js','questions.js','manifest.json','qr.png','assets/style.css',
 'assets/img/hero.webp','assets/img/speak.webp','assets/img/daily.webp','assets/img/icon-192.png','assets/img/icon-512.png','assets/img/apple-touch-icon.png','assets/img/favicon.png',
 'assets/fonts/Vazirmatn-Regular.woff2','assets/fonts/Vazirmatn-Medium.woff2','assets/fonts/Vazirmatn-Bold.woff2',

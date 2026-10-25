@@ -79,7 +79,7 @@ ul.steps{margin:6px 0;padding-inline-start:20px;font-size:15.5px}
 .done .fb{display:block}
 .submit{text-align:center;margin:22px 0}
 .hint{font-size:14px;color:var(--muted)}
-.result{border:2px solid var(--line);border-radius:20px;padding:18px;background:#fff;margin:18px 0;text-align:center}
+.result{scroll-margin-top:70px;border:2px solid var(--line);border-radius:20px;padding:18px;background:#fff;margin:18px 0;text-align:center}
 .result h2{margin:0;font-size:24px}
 .score{font:700 54px/1.1 Fredoka;color:var(--orange);margin:8px 0}
 .stats{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin:10px 0}
