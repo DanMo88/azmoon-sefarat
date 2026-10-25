@@ -1,0 +1,4112 @@
+[
+ {
+  "part": "A",
+  "q": "Bij wie gaat u wonen in Nederland?",
+  "ans": [
+   "Bij mijn partner",
+   "Bij ouders",
+   "Bij familie"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe bent u hier gekomen?",
+  "ans": [
+   "(Met een) fiets",
+   "Bus",
+   "Trein",
+   "Auto",
+   "Taxi"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe gaat het met u?",
+  "ans": [
+   "Goed",
+   "Prima",
+   "Uitstekend"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe gaat u naar uw werk?",
+  "ans": [
+   "(Met een) fiets",
+   "Bus",
+   "Trein",
+   "Auto",
+   "Taxi"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe laat begint u met werken?",
+  "ans": [
+   "Zeven uur",
+   "Tien uur"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe laat gaat u 's avonds naar bed?",
+  "ans": [
+   "Zeven uur",
+   "Tien uur"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe laat is het nu?",
+  "ans": [
+   "Zeven uur",
+   "Tien uur"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe laat stopt u met werken?",
+  "ans": [
+   "Zeven uur",
+   "Tien uur"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe laat wordt u 's ochtends wakker?",
+  "ans": [
+   "Zeven uur",
+   "Tien uur"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe vaak bent u al in Nederland geweest?",
+  "ans": [
+   "Heel vaak",
+   "Twee keer",
+   "Tien keer"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe vaak kijkt u tv?",
+  "ans": [
+   "Heel vaak",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoe vaak luistert u naar de radio?",
+  "ans": [
+   "Heel vaak",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoeveel broers en zussen hebt u?",
+  "ans": [
+   "Twee",
+   "Vijf",
+   "Tien"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoeveel dagen in de week werkt u?",
+  "ans": [
+   "Twee",
+   "Vijf"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoeveel jaar school hebt u gehad?",
+  "ans": [
+   "Vijf",
+   "Tien",
+   "Vijftien"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoeveel kinderen hebt u?",
+  "ans": [
+   "Twee",
+   "Vijf",
+   "Tien"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Hoeveel talen spreekt u?",
+  "ans": [
+   "Twee",
+   "Vijf",
+   "Tien"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "In wat voor huis gaat u wonen in Nederland?",
+  "ans": [
+   "Groot huis",
+   "Mooi huis",
+   "Klein huis",
+   "Flat"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "In welk land bent u geboren?",
+  "ans": [
+   "Japan",
+   "Syrië",
+   "Thailand",
+   "Indonesië"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "In welke plaats gaat u wonen in Nederland?",
+  "ans": [
+   "Amsterdam",
+   "Rottum",
+   "Hoogeveen",
+   "Assen"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Met hoeveel mensen werkt u?",
+  "ans": [
+   "Twee",
+   "Vijf",
+   "Tien"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Naar welke muziek luistert u graag?",
+  "ans": [
+   "Popmuziek",
+   "Klassieke muziek"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Op welke dagen werkt u?",
+  "ans": [
+   "Maandag",
+   "Dinsdag",
+   "Woensdag"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Van welke muziek houdt u?",
+  "ans": [
+   "Popmuziek",
+   "Klassieke muziek"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Waar bent u geboren?",
+  "ans": [
+   "Japan",
+   "Syrië",
+   "Thailand",
+   "Indonesië"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Waar heeft u Nederlands geleerd?",
+  "ans": [
+   "Thuis",
+   "Op school"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Waar woont u?",
+  "ans": [
+   "Tokyo",
+   "Istanbul",
+   "Bangkok",
+   "Rio de Janeiro"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Waar woont uw familie?",
+  "ans": [
+   "Tokyo",
+   "Istanbul",
+   "Bangkok",
+   "Rio de Janeiro"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Waarom wilt u naar Nederland?",
+  "ans": [
+   "Nederland is mooi"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wanneer bent u geboren?",
+  "ans": [
+   "Op 2 februari 1973"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wanneer wilt u naar Nederland gaan?",
+  "ans": [
+   "Morgen",
+   "Volgende week",
+   "Over drie maanden"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat doet u graag met uw familie?",
+  "ans": [
+   "Eten",
+   "Drinken",
+   "Praten"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat doet u graag met uw vrienden?",
+  "ans": [
+   "Eten",
+   "Drinken",
+   "Praten"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat doet u in het weekend?",
+  "ans": [
+   "Eten",
+   "Drinken",
+   "Praten"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat doet u in uw vrije tijd?",
+  "ans": [
+   "Eten",
+   "Drinken",
+   "Praten"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat doet u op een feestdag?",
+  "ans": [
+   "Eten",
+   "Drinken",
+   "Praten"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat drinkt u graag?",
+  "ans": [
+   "Koffie",
+   "Thee",
+   "Bier"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat eet u 's avonds?",
+  "ans": [
+   "Patat",
+   "Rijst",
+   "Spaghetti"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat eet u 's ochtends?",
+  "ans": [
+   "Rijst",
+   "Brood"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat gaat u morgen doen?",
+  "ans": [
+   "Dat weet ik niet",
+   "Werken"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat hebt u geleerd op school?",
+  "ans": [
+   "Nederlands",
+   "Veel dingen"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat hebt u gisteren gedaan?",
+  "ans": [
+   "Veel dingen",
+   "Werken gewerkt"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat hebt u gisteren gegeten?",
+  "ans": [
+   "Patat",
+   "Rijst",
+   "Spaghetti"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat is uw adres?",
+  "ans": [
+   "Dorpstraat 2"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat is uw telefoonnummer?",
+  "ans": [
+   "0645310799"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat kookt u graag?",
+  "ans": [
+   "Patat",
+   "Rijst",
+   "Spaghetti"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat vindt u van de Nederlandse taal?",
+  "ans": [
+   "Moeilijk",
+   "Makkelijk"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat vindt u van Nederland?",
+  "ans": [
+   "Mooi",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat vindt u van Nederlandse mensen?",
+  "ans": [
+   "Interessant",
+   "Groot",
+   "Klein"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat voor kleren draagt u vaak?",
+  "ans": [
+   "T-shirt",
+   "Broek",
+   "Schoenen"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat voor kleren vindt u mooi?",
+  "ans": [
+   "T-shirt",
+   "Broek",
+   "Schoenen"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat voor werk wilt u doen?",
+  "ans": [
+   "Alles is goed",
+   "Leraar",
+   "Schoonmaken",
+   "Administratie"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wat wilt u graag leren in Nederland?",
+  "ans": [
+   "Nederlandse taal"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Welke dag is het vandaag?",
+  "ans": [
+   "Maandag",
+   "Dinsdag",
+   "Woensdag"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Welke dieren vindt u leuk?",
+  "ans": [
+   "Kikkers",
+   "Olifanten",
+   "Tijgers",
+   "Katten"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Welke kleur vindt u mooi?",
+  "ans": [
+   "Rood",
+   "Wit",
+   "Blauw"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Welke maand is het nu?",
+  "ans": [
+   "Januari",
+   "Februari",
+   "Maart"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Welke talen spreekt u?",
+  "ans": [
+   "Japans",
+   "Portugees",
+   "Arabisch",
+   "Engels"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wie helpt u met Nederlands leren?",
+  "ans": [
+   "Mijn partner",
+   "Mijn docent"
+  ]
+ },
+ {
+  "part": "A",
+  "q": "Wie wonen bij u in huis?",
+  "ans": [
+   "Mijn ouders",
+   "Mijn broer",
+   "Mijn zus",
+   "Mijn partner"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "’s Avonds doe ik mijn ring af. Ik leg mijn ring altijd...",
+  "ans": [
+   "Naast het bed",
+   "In de kast",
+   "Op de kast"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Aaliyah pakt eerst een kopje koffie. Daarna gaat ze...",
+  "ans": [
+   "Naar school",
+   "Naar werk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Aaron gaat donderdag op reis. Hij vindt dat...",
+  "ans": [
+   "Leuk",
+   "Spannend",
+   "Mooi"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Aaron is dokter. Hij werkt...",
+  "ans": [
+   "In het ziekenhuis",
+   "Veel",
+   "Niet veel",
+   "Altijd"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Aaron is schilder. Hij schildert meestal...",
+  "ans": [
+   "Veel",
+   "Niet veel",
+   "Natuur",
+   "Portret"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Abdul stuurt zijn familie elke week een e-mail. Hij schrijft dan over....",
+  "ans": [
+   "Werk",
+   "School"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Abel is op school. Hij heeft...",
+  "ans": [
+   "Een test",
+   "Een toets",
+   "Een boek"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Achmed is klaar met school. Hij gaat...",
+  "ans": [
+   "Werken",
+   "Examen doen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Adam is aan het koken. Hij maakt...",
+  "ans": [
+   "Spaghetti",
+   "Rijst",
+   "Patat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ahmed brengt zijn zoon naar het vliegveld. Zijn zoon gaat...",
+  "ans": [
+   "Naar Nederland",
+   "Naar Rusland"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Aiden is bij de bakker. Hij wil...",
+  "ans": [
+   "Brood"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Alec gaat naar school. Hij wil graag...",
+  "ans": [
+   "Nederlands leren",
+   "Studeren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Alex gaat altijd met de trein. Ik ga graag met...",
+  "ans": [
+   "De auto",
+   "De fiets",
+   "De bus",
+   "E-bike",
+   "Metro"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Alex is ziek. Hij heeft pijn aan...",
+  "ans": [
+   "Tanden",
+   "Voet",
+   "Been"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Alex wil nieuwe schoenen. Hij gaat naar...",
+  "ans": [
+   "De winkel",
+   "Markt"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ali kan niet goed lopen. Hij heeft pijn aan zijn...",
+  "ans": [
+   "Voet",
+   "Been"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ali werkt in een fabriek. Hij wil...",
+  "ans": [
+   "Naar huis",
+   "Op vakantie",
+   "Veel geld"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Alice werkt in een ziekenhuis. Zij is daar...",
+  "ans": [
+   "Dokter",
+   "Verpleegster",
+   "Specialist"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Amel sport graag. Sporten is...",
+  "ans": [
+   "Leuk",
+   "Gezond"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ana is niet blij met haar huis. Ze vindt haar huis...",
+  "ans": [
+   "Klein",
+   "Duur",
+   "Niet mooi",
+   "Lelijk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ananda is aan het koken. Ze maakt...",
+  "ans": [
+   "Rijst",
+   "Spaghetti",
+   "Patat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Andres werkt op het land. Het werk is...",
+  "ans": [
+   "Moeilijk",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Anisa maakt huiswerk op de computer. Ze doet dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Anna is bij de dokter. Ze krijgt...",
+  "ans": [
+   "Medicijnen",
+   "Paracetamol"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Anna’s huis is te klein. Ze wil snel...",
+  "ans": [
+   "Een ander huis",
+   "Verhuizen",
+   "Nieuw huis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Arif wacht op de bus. De bus komt...",
+  "ans": [
+   "Laat",
+   "Snel",
+   "Niet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Arjun moet elke dag reizen naar zijn werk. Hij werkt in...",
+  "ans": [
+   "Een andere stad",
+   "Rio",
+   "Djakarta",
+   "Amsterdam",
+   "Moskou"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Arnold is schoonmaker. Hij werkt in...",
+  "ans": [
+   "Een ziekenhuis",
+   "Een andere stad"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ayla eet haar ontbijt snel op. Ze heeft...",
+  "ans": [
+   "Honger"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Aziz loopt elke dag. Hij loopt naar...",
+  "ans": [
+   "Werk",
+   "School"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Barry is geslaagd voor zijn examen. Hij krijgt...",
+  "ans": [
+   "Diploma"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Bart gaat bijna elke dag met de auto. Hij rijdt dan naar...",
+  "ans": [
+   "Werk",
+   "School"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Berat geeft les. Hij vertelt over....",
+  "ans": [
+   "Politiek",
+   "Nederland",
+   "Turkije"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Bilal gaat naar de bioscoop. Hij gaat met zijn...",
+  "ans": [
+   "Partner",
+   "Vriend",
+   "Vriendin",
+   "Kind"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Bob houdt niet van zwemmen. Hij gaat liever...",
+  "ans": [
+   "Voetballen",
+   "Skiën",
+   "Tennissen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Brenda doet een opleiding. Ze moet iedere avond...",
+  "ans": [
+   "Studeren",
+   "Werken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Cai werkt met hout. Hij maakt...",
+  "ans": [
+   "Een stoel",
+   "Tafel"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Carla drinkt een glas water. Ze doet dat...",
+  "ans": [
+   "Altijd",
+   "Nooit",
+   "Langzaam",
+   "Snel"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Carlos gaat vroeg slapen. Hij is...",
+  "ans": [
+   "Moe"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Carlos is vrij. Hij gaat...",
+  "ans": [
+   "Op vakantie",
+   "Op reis",
+   "Naar Amsterdam"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Carlos maakt muziek. Hij doet dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Carmen eet elke dag een banaan. Soms eet ze ook...",
+  "ans": [
+   "Een appel",
+   "Peer",
+   "Mango"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Caro gaat vaak met de bus naar school. Soms gaat ze...",
+  "ans": [
+   "Met de fiets",
+   "Met trein",
+   "Lopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Chen verkoopt bloemen. Ze doet dat...",
+  "ans": [
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Chris heeft een computer. Hij gebruikt de computer om te...",
+  "ans": [
+   "Werken",
+   "Studeren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Chris neemt zijn pillen. Hij heeft pijn in zijn...",
+  "ans": [
+   "Buik",
+   "Been",
+   "Voet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Christina belt met haar moeder. Ze praten over....",
+  "ans": [
+   "Alles",
+   "Kinderen",
+   "Werk",
+   "School"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Christo heeft dorst. Hij drinkt een glas...",
+  "ans": [
+   "Water",
+   "Thee",
+   "Bier"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Claire kijkt uit het raam. Ze kijkt naar...",
+  "ans": [
+   "Buiten",
+   "Naar een auto",
+   "Naar tuin",
+   "Man"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Claire leert Nederlands. Ze vindt Nederlands...",
+  "ans": [
+   "Moeilijk",
+   "Makkelijk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dael heeft veel geld. Hij werkt...",
+  "ans": [
+   "Veel",
+   "Weinig",
+   "Nooit",
+   "Altijd"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dafne kan goed zingen. Ze kan ook goed...",
+  "ans": [
+   "Koken",
+   "Studeren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Daniël heeft pijn aan zijn kies. Hij gaat naar...",
+  "ans": [
+   "Tandarts",
+   "Ziekenhuis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Daniëlle gaat studeren. Ze pakt haar...",
+  "ans": [
+   "Tas",
+   "Boek"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dany heeft hoofdpijn. Ze wil...",
+  "ans": [
+   "Pil",
+   "Paracetamol",
+   "Naar bed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dario zit op school. Hij maakt een...",
+  "ans": [
+   "Test",
+   "Toets",
+   "Examen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dave is niet blij met zijn haar. Zijn haar is...",
+  "ans": [
+   "Lang",
+   "Kort",
+   "Wit",
+   "Zwart",
+   "Grijs"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dave lust geen koffie. Hij drinkt liever...",
+  "ans": [
+   "Bier",
+   "Thee"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dave werkt in een café. Hij moet daar...",
+  "ans": [
+   "Schoonmaken",
+   "Hard werken",
+   "Veel werken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "David en Maria rijden naar de stad. Ze zoeken...",
+  "ans": [
+   "Een winkel",
+   "Vriend",
+   "Markt"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "David heeft een boot. Hij gebruikt de boot om te...",
+  "ans": [
+   "Varen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "David is dik. Hij eet elke dag...",
+  "ans": [
+   "Patat",
+   "Vlees"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "David werkt in een ziekenhuis. Hij is...",
+  "ans": [
+   "Dokter",
+   "Arts",
+   "Specialist",
+   "Schoonmaker"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De auto van Leah is kapot. Ze brengt de auto naar...",
+  "ans": [
+   "De garage",
+   "De monteur"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De baas van Patrick is boos. Patrick vindt dat...",
+  "ans": [
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De broer van Souad heeft een baby gekregen. Souad is...",
+  "ans": [
+   "Blij",
+   "Niet blij"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De bus is vaak te laat. Paul vindt dat...",
+  "ans": [
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De bus rijdt langzaam. Lia wil...",
+  "ans": [
+   "Snel",
+   "Sneller"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De dochter van Sophia kijkt veel tv. Ze kan beter gaan...",
+  "ans": [
+   "Sporten",
+   "Studeren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De dokter praat met Sofia. De dokter geeft Sofia...",
+  "ans": [
+   "Paracetamol",
+   "Pil",
+   "Medicijnen",
+   "Recept"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De familie Wang woont in een leuke straat. Zij wonen naast...",
+  "ans": [
+   "De dokter",
+   "De minister"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De kinderen lezen samen. In het boek staat...",
+  "ans": [
+   "Een verhaal",
+   "Mooie foto",
+   "Veel foto’s"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De klas is leeg. Iedereen is...",
+  "ans": [
+   "Op vakantie",
+   "Weg"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De koning is op het nieuws. Hij vertelt over....",
+  "ans": [
+   "De koningin",
+   "De prinses",
+   "Zijn werk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De les begint om 11 uur. Hetty gaat...",
+  "ans": [
+   "Naar school",
+   "Met fiets"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De les is afgelopen. We willen nu...",
+  "ans": [
+   "Naar huis",
+   "Op vakantie"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De man belt in de auto. Dat is...",
+  "ans": [
+   "Niet goed",
+   "Dom",
+   "Gevaarlijk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De stoel is kapot. Jaimy gaat de stoel...",
+  "ans": [
+   "Repareren",
+   "Weggooien"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De trein is vol. Hanna moet...",
+  "ans": [
+   "Staan",
+   "Met de bus",
+   "Lopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "De zoon van Samira gaat naar school. Samira vindt dat...",
+  "ans": [
+   "Leuk",
+   "Prima"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Debra zit op school. Ze maakt veel...",
+  "ans": [
+   "Huiswerk",
+   "Toetsen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Die sinaasappel is oud. Je moet de sinaasappel...",
+  "ans": [
+   "Opeten",
+   "Weggooien"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Diego houdt van koken. Hij kookt graag voor...",
+  "ans": [
+   "Zijn partner",
+   "Kinderen",
+   "Maria"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dimitri werkt in een garage. Hij maakt...",
+  "ans": [
+   "Auto’s",
+   "Garage schoon"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dunya gaat naar een feest. Het feest is van haar...",
+  "ans": [
+   "Moeder",
+   "Tante"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Dylan is bij de tandarts. Dat is...",
+  "ans": [
+   "Voor controle",
+   "1 keer per jaar"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Edgar en Joko koken samen. Ze doen dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Een mug heeft mij geprikt. Nu krijg ik...",
+  "ans": [
+   "Pijn"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ella bakt koekjes. Ze bakt de koekjes voor...",
+  "ans": [
+   "Het kind",
+   "Moeder",
+   "Vader"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Emma doet een opleiding. Dat is...",
+  "ans": [
+   "Moeilijk",
+   "Leuk",
+   "Interessant"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Emma schrijft alles op. Daarna gaat ze...",
+  "ans": [
+   "Slapen",
+   "Thee drinken",
+   "Eten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Emma wast haar handen. Ze gaat...",
+  "ans": [
+   "Eten maken",
+   "Eten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Er is ingebroken bij Ben. Hij belt naar...",
+  "ans": [
+   "De politie"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Er komen nieuwe huizen in onze buurt. Ik vind dat...",
+  "ans": [
+   "Mooi",
+   "Leuk",
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Er ligt rommel op straat. Dat is...",
+  "ans": [
+   "Niet leuk",
+   "Niet mooi",
+   "Niet goed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Esma wil lerares worden. Zij gaat...",
+  "ans": [
+   "Studeren",
+   "Naar universiteit"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Esra is ziek. Ze vindt dat...",
+  "ans": [
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Fanya is op de markt. Ze zoekt...",
+  "ans": [
+   "Tomaten",
+   "Bananen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Farid is zanger. Hij moet vandaag...",
+  "ans": [
+   "Op de televisie",
+   "Op de radio",
+   "Zingen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Fausia stapt uit de boot. Ze loopt naar...",
+  "ans": [
+   "Huis",
+   "School"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Felipe houdt van lezen. Hij koopt elke maand...",
+  "ans": [
+   "Een boek",
+   "Krant"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Felix gaat elke dag zwemmen. Soms gaat hij ook...",
+  "ans": [
+   "Voetballen",
+   "Tennissen",
+   "Skiën"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Fico woont ver van zijn werk. Hij moet elke dag...",
+  "ans": [
+   "Met trein",
+   "Met bus",
+   "Met auto"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Filip maakt de badkamer schoon. Hij vindt dat...",
+  "ans": [
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Filiz koopt een nieuwe jas. Ze koopt ook...",
+  "ans": [
+   "Een broek",
+   "Schoenen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Finn kijkt nu televisie. Hij gaat straks...",
+  "ans": [
+   "Naar buiten",
+   "Op internet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Franco gaat verhuizen. Zijn nieuwe huis heeft een...",
+  "ans": [
+   "Tuin",
+   "Balkon"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Frank leest de krant. Hij leest over...",
+  "ans": [
+   "Politiek"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Fred gaat naar school. Hij heeft les tot...",
+  "ans": [
+   "Zes uur"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Gabriel maakt een opdracht. Hij doet dat...",
+  "ans": [
+   "Goed",
+   "Slecht",
+   "Altijd"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Gary leest zijn dochter voor. Lezen is...",
+  "ans": [
+   "Leuk",
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Gary woont bij het strand. Hij wil het liefst...",
+  "ans": [
+   "Zwemmen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Gina kijkt vaak televisie. Ze houdt van programma's over....",
+  "ans": [
+   "Natuur",
+   "Dieren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Grace houdt niet van groente. Ze vindt dat...",
+  "ans": [
+   "Niet lekker",
+   "Vies"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Halil rijdt in een vrachtwagen. Hij vindt dat...",
+  "ans": [
+   "Leuk",
+   "Mooi werk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Han heeft zijn diploma gehaald. Hij gaat nu...",
+  "ans": [
+   "Werken",
+   "Bier drinken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Hannah eet graag vis. Ze haalt die vis...",
+  "ans": [
+   "In de winkel",
+   "Op de markt"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Hannah leert Nederlands. Ze leert ook...",
+  "ans": [
+   "Engels",
+   "Arabisch"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Hannah maakt haar huis schoon. Ze doet dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Harold is niet alleen. Hij heeft...",
+  "ans": [
+   "Familie",
+   "Een partner"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Harry is gevallen. Hij heeft...",
+  "ans": [
+   "Pijn"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Hassan maakt zijn brommer. Het wiel is...",
+  "ans": [
+   "Kapot",
+   "Rond"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Hassan werkt in een restaurant. Hij leert daar...",
+  "ans": [
+   "Koken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het bord van Sahid is gevallen. Sahid is...",
+  "ans": [
+   "Niet blij",
+   "Verdrietig"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het eten is heel warm! Je moet...",
+  "ans": [
+   "Later eten",
+   "Wachten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het fruit is op. Ik ga nu naar...",
+  "ans": [
+   "De keuken",
+   "Buiten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het huis van Tania is heel groot. Haar huis heeft...",
+  "ans": [
+   "Vier muren",
+   "Tien kamers",
+   "Een tuin"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is donker. Ik reis dan liever niet met...",
+  "ans": [
+   "De bus",
+   "De trein",
+   "De fiets"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is druk in de stad. Er zijn veel...",
+  "ans": [
+   "Auto’s",
+   "Bussen",
+   "Mensen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is druk op de weg. Emir vindt dat...",
+  "ans": [
+   "Niet leuk",
+   "Niet goed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is druk op het station. Er zijn veel...",
+  "ans": [
+   "Mensen",
+   "Treinen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is koud in het huis van Faiz. Hij wil...",
+  "ans": [
+   "Naar bed",
+   "Warm zijn"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is slecht weer. Gaan we met de....?",
+  "ans": [
+   "Auto",
+   "Fiets",
+   "Trein",
+   "Bus"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is stil in de klas. De leerlingen...",
+  "ans": [
+   "Studeren",
+   "Schrijven"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is warm vandaag. Ana wil...",
+  "ans": [
+   "Zwemmen",
+   "Niet werken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het is zondag. Eva gaat op zondag altijd naar...",
+  "ans": [
+   "Kerk",
+   "Zwembad",
+   "Voetbal"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het regent al de hele dag. William wil...",
+  "ans": [
+   "Naar bed",
+   "Niet naar buiten",
+   "Naar binnen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het regent onderweg. Marta wil...",
+  "ans": [
+   "Naar binnen",
+   "Niet naar buiten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Het vliegveld is ver weg. We gaan naar het vliegveld met...",
+  "ans": [
+   "Auto",
+   "Bus",
+   "Trein",
+   "Taxi"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Hetty is klaar met koken. Ze roept...",
+  "ans": [
+   "Haar partner",
+   "Man"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Hue wil naar de markt. Ze gaat...",
+  "ans": [
+   "Eten kopen",
+   "Groente kopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ibrahim heeft een kar met spullen. Hij brengt de spullen...",
+  "ans": [
+   "Naar huis",
+   "Naar vriend",
+   "Naar Marokko"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Iedereen is blij. Het is...",
+  "ans": [
+   "Vakantie",
+   "Lente",
+   "Mooi weer"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ben op zoek naar het treinstation. Kunt u mij...",
+  "ans": [
+   "Helpen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ben ziek. Ik ga morgen niet...",
+  "ans": [
+   "Naar werk",
+   "Naar school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik drink geen alcohol. Ik drink wel graag...",
+  "ans": [
+   "Melk",
+   "Thee",
+   "Koffie",
+   "Water"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik eet graag brood. Ik houd niet van...",
+  "ans": [
+   "Rijst",
+   "Spaghetti",
+   "Patat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik eet nooit druiven. Ik vind druiven...",
+  "ans": [
+   "Niet lekker",
+   "Vies"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik eet nooit kip. Dat vind ik...",
+  "ans": [
+   "Niet lekker",
+   "Vies"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ga een taart maken. Wil jij....?",
+  "ans": [
+   "Taart eten",
+   "Proeven",
+   "Proberen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ga morgen brood kopen. Brood koop ik meestal...",
+  "ans": [
+   "In winkel",
+   "In supermarkt"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ga naar de huisarts. Hij geeft mij...",
+  "ans": [
+   "Paracetamol",
+   "Pillen",
+   "Medicijnen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ga naar mijn zus. Mijn zus woont...",
+  "ans": [
+   "In Amsterdam",
+   "In Amerika"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ga straks naar Hamza. Hij is...",
+  "ans": [
+   "Mijn broer",
+   "In Amsterdam"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik ga vaak met de bus. Ik ga dan naar...",
+  "ans": [
+   "Amsterdam",
+   "Djakarta",
+   "Rio"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik heb deze krant gelezen. Wil jij de krant nu...?",
+  "ans": [
+   "Lezen",
+   "Hebben",
+   "Zien"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik heb een computer met internet. Die gebruik ik...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik heb een nieuwe tafel gekocht. Wil jij mijn oude tafel....?",
+  "ans": [
+   "Hebben",
+   "Kopen",
+   "Zien"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik heb geen auto. Een auto is...",
+  "ans": [
+   "Duur",
+   "Vies"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik heb soep gemaakt. Wil jij mijn soep....?",
+  "ans": [
+   "Eten",
+   "Proberen",
+   "Proeven"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik heb wortels gekocht. Ik koop de wortels voor...",
+  "ans": [
+   "Mijn konijn",
+   "Mijn man",
+   "Mijn partner"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik houd van tekenen. Ik teken...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik lees het nieuws op mijn telefoon. Mijn man leest het nieuws...",
+  "ans": [
+   "Altijd",
+   "Elke dag",
+   "Op internet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik lees vaak. Ik lees graag...",
+  "ans": [
+   "Een boek",
+   "Krant",
+   "Op internet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ik wil zieke mensen helpen. Ik vind dat...",
+  "ans": [
+   "Goed",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Imani vindt school leuk. Zij houdt van...",
+  "ans": [
+   "De leraar",
+   "De lerares",
+   "De school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "In de stad rijden veel brommers. Ik vind dat...",
+  "ans": [
+   "Niet goed",
+   "Vies"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "In een grote stad wonen veel mensen. Ik vind dat...",
+  "ans": [
+   "Niet leuk",
+   "Druk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "In het eten zitten pepers. Ik vind dat...",
+  "ans": [
+   "Niet lekker",
+   "Lekker"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Inez en Luis bouwen een huis. Het huis heeft nog geen...",
+  "ans": [
+   "Dak",
+   "Muren",
+   "Ramen",
+   "Deuren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Inez gaat naar een concert. Ze gaat...",
+  "ans": [
+   "Alleen",
+   "Met vrienden"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Is dat boek leuk? Ik wil het boek ook graag...",
+  "ans": [
+   "Lezen",
+   "Hebben"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Isa heeft pauze. Ze belt met haar...",
+  "ans": [
+   "Vriend",
+   "Vriendin",
+   "Partner",
+   "Moeder"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Isabel speelt graag met haar pop. Soms speelt ze ook met...",
+  "ans": [
+   "Een trein",
+   "Auto"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ismet heeft groenten in zijn tuin. Hij gaat de groenten...",
+  "ans": [
+   "Eten",
+   "Verkopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ivan is niet blij met zijn werk. Hij vindt zijn werk te...",
+  "ans": [
+   "Moeilijk",
+   "Makkelijk",
+   "Saai"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Iwan wil gezond zijn. Hij drinkt geen...",
+  "ans": [
+   "Alcohol",
+   "Cola"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jack koopt tomaten. Hij koopt ook...",
+  "ans": [
+   "Bananen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jack wil de muziek niet horen. Hij vindt de muziek...",
+  "ans": [
+   "Niet mooi",
+   "Lelijk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jacques is leraar. Hij geeft...",
+  "ans": [
+   "Les",
+   "Een toets"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jada maakt pannenkoeken voor haar familie. Zij doet dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jafar houdt niet van dansen. Hij vindt dansen...",
+  "ans": [
+   "Niet leuk",
+   "Saai"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jakob zoekt een taxi. Hij wil...",
+  "ans": [
+   "Naar huis",
+   "Naar ziekenhuis",
+   "Naar school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jamal heeft een nieuwe scooter. Hij kan nu...",
+  "ans": [
+   "Naar de stad",
+   "Naar kantoor",
+   "Naar school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jamal woont in een flatgebouw. Hij wil graag...",
+  "ans": [
+   "Ander huis",
+   "Nieuw huis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jamila maakt kleding. Die kleding is voor...",
+  "ans": [
+   "Haar kind",
+   "Kinderen",
+   "Familie"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jan heeft zijn arm gebroken. Hij moet nu...",
+  "ans": [
+   "Naar dokter",
+   "Naar ziekenhuis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Janek heeft koorts. Zijn moeder geeft hem...",
+  "ans": [
+   "Paracetamol",
+   "Pillen",
+   "Medicijnen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Janine leert Nederlands. Ze praat met de lerares over....",
+  "ans": [
+   "Examen",
+   "Studie",
+   "Boeken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jara is zwanger. Ze krijgt...",
+  "ans": [
+   "Baby",
+   "Jongen",
+   "Meisje"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jasmine gaat naar het ziekenhuis. In het ziekenhuis zijn...",
+  "ans": [
+   "Dokters",
+   "Veel mensen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jason gaat graag naar school. Hij kan goed...",
+  "ans": [
+   "Leren",
+   "Studeren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jessie houdt van muziek. Ze speelt graag...",
+  "ans": [
+   "Piano",
+   "Gitaar",
+   "Viool"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jessie moet langer werken vandaag. Ze mag pas om acht uur...",
+  "ans": [
+   "Naar huis",
+   "Stoppen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jie is op de markt. Hij ziet...",
+  "ans": [
+   "Bananen",
+   "Tomaten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jim gaat naar het strand. Het is daar...",
+  "ans": [
+   "Druk",
+   "Warm"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jim heeft haast. Hij moet snel naar...",
+  "ans": [
+   "Zijn werk",
+   "School",
+   "Huis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jing maakt de borden schoon. Daarna gaat ze...",
+  "ans": [
+   "Slapen",
+   "Naar buiten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Joel heeft een vieze keuken. Hij moet...",
+  "ans": [
+   "Schoonmaken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Johanna doet suiker in haar koffie. Suiker is...",
+  "ans": [
+   "Zoet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "John en zijn dochter bakken samen taart. Ze vinden dat...",
+  "ans": [
+   "Lekker",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "John houdt van paarden. Hij vindt paarden...",
+  "ans": [
+   "Leuk",
+   "Lief",
+   "Super"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "John woont bij een bos. Hij gaat daar elk weekend...",
+  "ans": [
+   "Lopen",
+   "Fietsen",
+   "Wandelen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Johnny is moe. Hij wil...",
+  "ans": [
+   "Slapen",
+   "Naar bed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Johnny is vrij op zaterdag. Hij gaat...",
+  "ans": [
+   "Sporten",
+   "Naar strand",
+   "Naar restaurant"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Jonas werkt altijd buiten. Dat is...",
+  "ans": [
+   "Leuk",
+   "Gezond"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Josh heeft de hele dag gelopen. Hij wil nu...",
+  "ans": [
+   "Slapen",
+   "Naar bed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Josh koopt een krant in de winkel. Hij koopt ook...",
+  "ans": [
+   "Sigaretten",
+   "Brood"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Judy leest een tijdschrift. Soms leest ze ook...",
+  "ans": [
+   "Krant",
+   "Op internet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Julio gaat verhuizen. Hij moet...",
+  "ans": [
+   "Inpakken",
+   "Auto huren",
+   "Auto lenen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Karim heeft pijn in zijn rug. Hij moet...",
+  "ans": [
+   "Naar dokter",
+   "Naar ziekenhuis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Karim leest het weerbericht. Het weer wordt....",
+  "ans": [
+   "Goed",
+   "Prima",
+   "Super"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Karima gaat naar de dokter. Ze voelt zich...",
+  "ans": [
+   "Niet lekker",
+   "Ziek"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Karin kijkt naar het journaal. Ze doet dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Karl gaat met zijn dochter naar de dierentuin. Ze kijken naar...",
+  "ans": [
+   "Olifanten",
+   "Leeuwen",
+   "Slangen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kay zoekt een nieuw huis. Hij vindt zijn oude huis...",
+  "ans": [
+   "Niet mooi",
+   "Lelijk",
+   "Klein",
+   "Groot"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kei eet 's avonds met zijn familie. Dat vindt hij...",
+  "ans": [
+   "Leuk",
+   "Gezellig"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kenji rookt al twintig jaar sigaretten. Dat is...",
+  "ans": [
+   "Niet goed",
+   "Niet gezond"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kenny zoekt op internet. Hij zoekt naar...",
+  "ans": [
+   "Informatie"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kevin eet een salade met paprika. In de salade zit ook...",
+  "ans": [
+   "Tomaat",
+   "Fruit"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kevin heeft huiswerk. Hij moet veel...",
+  "ans": [
+   "Leren",
+   "Studeren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kevin werkt in een restaurant. Hij maakt vandaag...",
+  "ans": [
+   "Pizza",
+   "Spaghetti"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kevin zit in de klas. Hij heeft een vraag over....",
+  "ans": [
+   "Zijn boek",
+   "Examen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Khalid is visser. Na het werk is hij vaak...",
+  "ans": [
+   "Moe"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kun je mij een lepel geven? Ik wil...",
+  "ans": [
+   "Eten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kun je mij naar het station brengen. Ik moet op tijd...",
+  "ans": [
+   "Komen",
+   "Zijn"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Kwasi is chauffeur. Hij rijdt...",
+  "ans": [
+   "Snel",
+   "Langzaam",
+   "Goed",
+   "Slecht"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Laila moet elke dag vroeg opstaan. Soms is ze...",
+  "ans": [
+   "Laat",
+   "Te laat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Laiqa werkt elke dag buiten. Ze houdt van...",
+  "ans": [
+   "Buiten werken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Laura heeft veel collega's. Ze gaan samen...",
+  "ans": [
+   "Werken",
+   "Naar de kantine"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lea eet graag in een restaurant. Ze vindt dat...",
+  "ans": [
+   "Leuk",
+   "Gezellig"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lea gaat naar haar kleinzoon. Ze geeft hem...",
+  "ans": [
+   "Een cadeau",
+   "Een zoen",
+   "Een kus",
+   "Knuffel"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lea is in het ziekenhuis. Ze wil...",
+  "ans": [
+   "Naar huis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lei speelt op straat. Dat is...",
+  "ans": [
+   "Normaal",
+   "Gevaarlijk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Leon is verkouden. Hij moet...",
+  "ans": [
+   "Naar dokter",
+   "Naar bed",
+   "Slapen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Leon speelt gitaar. Hij doet dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Leyla slaapt samen met haar zus in een kamer. Zij vinden dat...",
+  "ans": [
+   "Normaal",
+   "Leuk",
+   "Gezellig"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Li en Chen gaan iets drinken. Ze drinken...",
+  "ans": [
+   "Bier",
+   "Melk",
+   "Thee"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lia wil meer geld voor haar werk. Dan kan ze...",
+  "ans": [
+   "Op vakantie",
+   "Huis kopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Liam kan niet goed zien. Hij moet...",
+  "ans": [
+   "Een bril",
+   "Naar dokter",
+   "Naar ziekenhuis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lily gaat elke dinsdag sporten. Ze eet daarna altijd...",
+  "ans": [
+   "Spaghetti",
+   "Patat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lin zoekt werk. Ze gaat naar...",
+  "ans": [
+   "Uitzendbureau"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ling wil iets eten. Ze eet liever geen...",
+  "ans": [
+   "Vlees"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Linn heeft niet goed geslapen. Ze blijft...",
+  "ans": [
+   "Moe",
+   "In bed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Liyen gaat vanavond koken. Ze gaat eerst...",
+  "ans": [
+   "Boodschappen doen",
+   "Eten kopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lizzie en haar moeder gaan met het vliegtuig. Lizzie vindt dat...",
+  "ans": [
+   "Leuk",
+   "Spannend",
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Louis gaat op de scooter naar zijn werk. Hij doet dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Louis gebruikt de computer. Hij wil...",
+  "ans": [
+   "Informatie zoeken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lucia heeft haar been gebroken. Nu kan ze niet...",
+  "ans": [
+   "Lopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Lucia wil nieuw werk. Ze vindt haar oude werk...",
+  "ans": [
+   "Saai",
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Madee heeft een auto. Ze gaat met de auto naar...",
+  "ans": [
+   "Werk",
+   "School",
+   "Moeder"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mae heeft een nieuwe auto. Ze kan nu...",
+  "ans": [
+   "Rijden",
+   "Op vakantie",
+   "Naar school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mag ik jouw brommer lenen? Mijn brommer is...",
+  "ans": [
+   "Kapot"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mai kijkt niet naar het nieuws. Ze vindt het nieuws...",
+  "ans": [
+   "Saai",
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Maja maakt soep. De soep is...",
+  "ans": [
+   "Lekker"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Malik gaat vandaag niet sporten. Hij heeft geen...",
+  "ans": [
+   "Zin",
+   "Tijd"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Malik heeft een nieuwe bank gekocht. De oude bank was...",
+  "ans": [
+   "Kapot"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mandy eet vaak chips als ze een film kijkt. Ze eet soms ook...",
+  "ans": [
+   "Komkommer",
+   "Tomaten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Manuel is buschauffeur. Hij rijdt...",
+  "ans": [
+   "In een bus",
+   "Snel",
+   "Langzaam",
+   "Goed",
+   "Slecht"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Marco heeft zin in koffie. Hij wil ook...",
+  "ans": [
+   "Suiker",
+   "Melk",
+   "Koekjes"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Marco is ziek. Hij belt...",
+  "ans": [
+   "De dokter",
+   "Zijn moeder",
+   "Zijn partner"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Maria heeft griep. Ze moet...",
+  "ans": [
+   "Naar dokter",
+   "Naar bed",
+   "Slapen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Maria kan goed koken. Ze kookt meestal...",
+  "ans": [
+   "Rijst",
+   "Spaghetti",
+   "Patat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Maria leest een boek. Ze vindt het...",
+  "ans": [
+   "Leuk",
+   "Spannend",
+   "Mooi"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Maria leest op zondag de krant. Ze leest soms...",
+  "ans": [
+   "Een boek",
+   "Boeken",
+   "Op internet"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mariam praat met de leraar. Mariam praat ook met haar...",
+  "ans": [
+   "Moeder",
+   "Vader",
+   "Kinderen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Martin eet elke ochtend een ei. Zijn vrouw eet meestal...",
+  "ans": [
+   "Brood",
+   "Yoghurt",
+   "Fruit"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Martin stelt een vraag aan de docent. De vraag gaat over....",
+  "ans": [
+   "Het boek",
+   "De les"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Maryam kookt voor Dina. Maryam maakt...",
+  "ans": [
+   "Spaghetti",
+   "Rijst",
+   "Patat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Masha kan vandaag zitten in de bus. Soms moet ze...",
+  "ans": [
+   "Staan"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Max draagt een helm op zijn werk. Dat moet van zijn...",
+  "ans": [
+   "Vrouw",
+   "Moeder",
+   "Baas"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Maya doet de gordijnen dicht. Ze gaat...",
+  "ans": [
+   "Slapen",
+   "Naar bed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Megan gaat vandaag verhuizen. Ze woont straks...",
+  "ans": [
+   "In Amsterdam",
+   "In Rottum",
+   "In Assen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Melissa wacht op het station. Ze wacht op haar...",
+  "ans": [
+   "Moeder",
+   "Partner"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mevrouw Perez heeft geen auto meer. Nu moet ze...",
+  "ans": [
+   "Lopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mia maakt zelf kleren. Vandaag maakt ze een...",
+  "ans": [
+   "Broek",
+   "Jas"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mia moet snel naar huis. Ze gaat met de...",
+  "ans": [
+   "Auto",
+   "Bus",
+   "Trein"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Michael houdt niet van tennis. Hij houdt meer van...",
+  "ans": [
+   "Voetbal",
+   "Zwemmen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Michelle kijkt vaak films. Ze houdt van films over....",
+  "ans": [
+   "Liefde",
+   "Afrika",
+   "Natuur"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Michelle maakt huiswerk. Ze vindt het huiswerk...",
+  "ans": [
+   "Leuk",
+   "Niet leuk",
+   "Moeilijk",
+   "Makkelijk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Miguel stopt met werken. Hij is...",
+  "ans": [
+   "Moe",
+   "Klaar",
+   "67 jaar"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn auto is kapot. Nu moet ik...",
+  "ans": [
+   "Lopen",
+   "Fietsen",
+   "Met de bus"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn baas fietst elke dag. Ik doe dat...",
+  "ans": [
+   "Nooit",
+   "Bijna nooit",
+   "Ook elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn benzine is op. Nu moet ik...",
+  "ans": [
+   "Lopen",
+   "Met de bus"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn broer houdt niet van varen. Hij wordt altijd ziek op...",
+  "ans": [
+   "Zee",
+   "De boot",
+   "Het water"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn broer zingt veel. Hij is...",
+  "ans": [
+   "Zanger",
+   "Artiest"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn buurman maakt graag muziek. Dat vind ik...",
+  "ans": [
+   "Mooi",
+   "Niet leuk",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn opa gaat elke dag wandelen. Dat is...",
+  "ans": [
+   "Gezond",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn opa zit op de bank. Hij kijkt naar...",
+  "ans": [
+   "De televisie",
+   "Zijn vrouw",
+   "Mijn oma"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn telefoon is kapot. Nu kan ik niet...",
+  "ans": [
+   "Bellen",
+   "Appen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn trein vertrekt over een half uur. Ik ga nu...",
+  "ans": [
+   "Naar station",
+   "Op reis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn vader heeft een paard. Hij gaat...",
+  "ans": [
+   "Rijden",
+   "Naar huis",
+   "Naar dierenarts"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn vader loopt met een stok. Mijn vader is...",
+  "ans": [
+   "Oud"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn vader luistert graag naar het nieuws. Hij luistert ook naar...",
+  "ans": [
+   "Muziek",
+   "Zijn vrouw"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mijn zus rijdt altijd hard. Ik vind dat...",
+  "ans": [
+   "Gevaarlijk",
+   "Niet goed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mike heeft pijn aan zijn been. Hij heeft ook pijn aan zijn...",
+  "ans": [
+   "Tanden",
+   "Hoofd",
+   "Rug"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ming rijdt vaak op zijn scooter. Hij wil niet...",
+  "ans": [
+   "Met bus",
+   "Met fiets",
+   "Met auto"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mira heeft zin in koffie. Ze drinkt koffie met...",
+  "ans": [
+   "Suiker",
+   "Melk",
+   "Koekjes"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mo en zijn familie spelen een spel. Daarna gaan ze...",
+  "ans": [
+   "Naar bed",
+   "Slapen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mo zit aan tafel. Hij schrijft een brief aan zijn...",
+  "ans": [
+   "Moeder",
+   "Leraar"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Mohammed maakt auto’s. Dat vindt hij...",
+  "ans": [
+   "Mooi",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Monica maakt graag foto's. Ze maakt het liefst foto's van...",
+  "ans": [
+   "Mensen",
+   "Natuur"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Monica wil graag een huis met een tuin. Ze vindt dat...",
+  "ans": [
+   "Mooi",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Myra en Liz gaan naar een café. Ze willen graag...",
+  "ans": [
+   "Bier drinken",
+   "Koffie drinken",
+   "Iets drinken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nadia heeft kip gekocht. Ze gaat de kip eerst...",
+  "ans": [
+   "Dood maken",
+   "Wassen",
+   "Schoonmaken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Naima wil kapper worden. Ze leert...",
+  "ans": [
+   "Op school",
+   "Knippen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nancy en Oscar zitten in de bioscoop. Ze vinden de film...",
+  "ans": [
+   "Mooi",
+   "Niet mooi",
+   "Saai",
+   "Spannend"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nasir zoekt een nieuw huis. Hij wil een huis met...",
+  "ans": [
+   "Tuin",
+   "Balkon"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nasira woont bij de supermarkt. Ze woont ook bij...",
+  "ans": [
+   "Mediamarkt",
+   "School"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nick wil naar zijn familie. Hij reist met...",
+  "ans": [
+   "Auto",
+   "Trein",
+   "Bus"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nick zoekt werk. Hij wil graag werken bij...",
+  "ans": [
+   "Mediamarkt",
+   "School",
+   "Winkel"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nicole gaat naar de tandarts. Ze heeft pijn aan haar...",
+  "ans": [
+   "Tanden",
+   "Mond"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nikki zoekt een nieuw huis. Ze wil graag...",
+  "ans": [
+   "Mooi huis",
+   "Groot huis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nina speelt in de tuin. Ze speelt met...",
+  "ans": [
+   "Bal",
+   "Water",
+   "Auto",
+   "Fiets"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Noah leest een bericht in de krant. Het bericht gaat over....",
+  "ans": [
+   "Examen",
+   "Amerika",
+   "Rusland"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Noor werkt in een winkel. Ze verkoopt broeken en ook...",
+  "ans": [
+   "Jassen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Nora en Souffian wonen in een dorp. Ze wonen liever...",
+  "ans": [
+   "In de stad"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Odara ruimt het huis op. Ze legt de kleren...",
+  "ans": [
+   "In de kast"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Olga is ziek. Ze moet...",
+  "ans": [
+   "Naar dokter",
+   "Naar ziekenhuis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Omar koopt vis. Hij koopt ook...",
+  "ans": [
+   "Vlees",
+   "Groente"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Omid leest 's ochtends altijd eerst de krant. Daarna gaat hij...",
+  "ans": [
+   "Werken",
+   "Sporten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ons dak is kapot. Wij moeten...",
+  "ans": [
+   "Nieuw dak",
+   "Dak repareren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Orma heeft leuke buren. Ze gaat met haar buren...",
+  "ans": [
+   "Lekker eten",
+   "Koffie drinken",
+   "Thee drinken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Pablo gaat vaak met de trein. Hij gaat dan naar...",
+  "ans": [
+   "Zijn moeder",
+   "Zijn kinderen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Pablo speelt gitaar. Hij oefent...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Pari gaat elke dag met de bus. Vandaag gaat ze...",
+  "ans": [
+   "Naar de stad",
+   "Naar Amsterdam"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Pascal vindt zijn werk moeilijk. Hij wil...",
+  "ans": [
+   "Ander werk",
+   "Beter werk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Paul gaat vroeg naar bed. Hij moet morgen...",
+  "ans": [
+   "Werken",
+   "Op reis",
+   "Naar school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Paul heeft honger. Zijn moeder geeft hem...",
+  "ans": [
+   "Spaghetti",
+   "Rijst",
+   "Patat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Paul viert zijn verjaardag. Hij is...",
+  "ans": [
+   "Jarig",
+   "Blij",
+   "Op school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Paula heeft een brief gekregen. De brief is van...",
+  "ans": [
+   "Gemeente",
+   "Partner",
+   "Vriend"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Pedro doet de lamp aan. Het is...",
+  "ans": [
+   "Donker",
+   "Nacht"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Pedro woont op een boerderij. Hij heeft daar...",
+  "ans": [
+   "Kippen",
+   "Koeien"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Peter maakt machines. Hij werkt vaak...",
+  "ans": [
+   "In weekend",
+   "Op zaterdag",
+   "In de nacht"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Peter speelt met zijn zoon. Ze zijn...",
+  "ans": [
+   "In huis",
+   "In de tuin"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Philip fietst op de weg. De weg is...",
+  "ans": [
+   "Rustig",
+   "Stil",
+   "Lang"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Philippa zit in de tuin. Ze zit ook vaak...",
+  "ans": [
+   "In huis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Pia woont naast een park. Ze gaat daar...",
+  "ans": [
+   "Wandelen",
+   "Fietsen",
+   "Lopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Priya doet een opleiding. Later wordt ze...",
+  "ans": [
+   "Kapper",
+   "Leraar"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Priya maakt saus. Haar dochters willen...",
+  "ans": [
+   "Eten",
+   "Niet eten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Quito eet vandaag niet thuis. Hij eet...",
+  "ans": [
+   "In restaurant",
+   "Op straat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rachel zingt vaak alleen. Soms zingt ze ook...",
+  "ans": [
+   "Met vader",
+   "Met broer",
+   "Met zus"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rafael heeft een telefoon. Hij belt elke dag met zijn...",
+  "ans": [
+   "Moeder",
+   "Vader",
+   "Zus"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Raheem heeft een fijn huis. Hij woont daar met...",
+  "ans": [
+   "Zijn partner",
+   "Met moeder",
+   "Met vader"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rahime heeft Nederlandse les. Ze vindt haar docent...",
+  "ans": [
+   "Leuk",
+   "Niet leuk",
+   "Goed",
+   "Niet goed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rasha werkt op een kantoor. Het kantoor is...",
+  "ans": [
+   "Mooi",
+   "Niet mooi",
+   "Lelijk",
+   "Groot",
+   "Klein"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Remi werkt op de markt. Hij verkoopt...",
+  "ans": [
+   "Bananen",
+   "Tomaten"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rhonda is haar sleutel kwijt. Nu moet ze...",
+  "ans": [
+   "Zoeken",
+   "Naar familie",
+   "Naar politie"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rico eet vaak snoep. Snoep is slecht voor...",
+  "ans": [
+   "Tanden",
+   "Gezondheid"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rico krijgt een prik. Hij is...",
+  "ans": [
+   "Ziek"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Rima en haar dochter zijn in de keuken. Haar dochter wil...",
+  "ans": [
+   "Eten maken",
+   "Helpen",
+   "Koken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Robin loopt snel naar school. Hij is...",
+  "ans": [
+   "Laat",
+   "Te laat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Romeo werkt op een school. Hij geeft les aan...",
+  "ans": [
+   "Kinderen",
+   "Buitenlanders"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Roy wil zijn vriend spreken. Hij gaat...",
+  "ans": [
+   "Bellen",
+   "Naar zijn vriend"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ryan heeft weinig geld. Hij werkt...",
+  "ans": [
+   "Niet veel",
+   "Nooit"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Ryan wil een film zien. Hij gaat naar...",
+  "ans": [
+   "Bioscoop"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sabir heeft een nieuwe baan. Hij werkt bij...",
+  "ans": [
+   "Mediamarkt",
+   "Apple"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Saïd heeft vakantie. Hij gaat...",
+  "ans": [
+   "Naar Marokko",
+   "Naar Thailand"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Saïd is te laat op zijn werk. Zijn baas is...",
+  "ans": [
+   "Boos",
+   "Niet boos"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Salih is bakker. Hij werkt meestal...",
+  "ans": [
+   "In de nacht",
+   "In het weekend"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Salim snijdt de uien. Zijn vrouw gaat...",
+  "ans": [
+   "Naar buiten",
+   "Naar de winkel",
+   "Naar de wc"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sam loopt het lokaal uit. Hij gaat...",
+  "ans": [
+   "Naar buiten",
+   "Naar de wc"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Samir is te laat voor de trein. Hij moet nu...",
+  "ans": [
+   "Snel lopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Samira heeft een gesprek met haar baas. Ze praten over....",
+  "ans": [
+   "Salaris",
+   "Vakantie"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Samira gaat naar haar ouders. Ze gaan samen...",
+  "ans": [
+   "Naar winkel",
+   "Naar Amsterdam"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Samira heeft pijn aan haar rug. Ze kan niet goed...",
+  "ans": [
+   "Zitten",
+   "Lopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Samuel heeft vandaag les. Hij gaat morgen...",
+  "ans": [
+   "Werken",
+   "Huiswerk maken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Samuel praat met zijn baas. Hij vraagt...",
+  "ans": [
+   "Extra salaris",
+   "Extra vakantie"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Samuel vindt de pauze leuk. Hij gaat dan...",
+  "ans": [
+   "Koffie drinken",
+   "Thee drinken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sandra moet vandaag veel doen. Ze moet...",
+  "ans": [
+   "Naar supermarkt",
+   "Werken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sanne kan niet goed koken. Het eten is...",
+  "ans": [
+   "Niet lekker",
+   "Niet goed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sara praat met haar buurvrouw. Ze praten over....",
+  "ans": [
+   "Kinderen",
+   "School",
+   "Mannen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sarah is nooit ziek. Zij voelt zich altijd...",
+  "ans": [
+   "Prima",
+   "Goed",
+   "Super"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sasha eet niet altijd thuis. Ze gaat vaak naar...",
+  "ans": [
+   "Restaurant",
+   "Vrienden",
+   "Ouders"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sasha gaat naar de bioscoop. Ze kijkt...",
+  "ans": [
+   "Naar film"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sasha heeft een hond. Ze heeft ook...",
+  "ans": [
+   "Een kat"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Savita gaat solliciteren. Ze wil...",
+  "ans": [
+   "Werken",
+   "Geld verdienen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Scott doet een opleiding. Hij vindt leren...",
+  "ans": [
+   "Leuk",
+   "Prima"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Selim kan zijn broer niet bellen. Hij stuurt zijn broer een...",
+  "ans": [
+   "Appje",
+   "E-mail",
+   "Brief",
+   "Sms"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Shaila draagt een rugzak naar school. In de rugzak zit...",
+  "ans": [
+   "Een boek",
+   "Boeken",
+   "Een pen",
+   "Pennen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Shanna heeft haar diploma. Ze is...",
+  "ans": [
+   "Blij"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Shing heeft zijn arm gebroken. Hij mag niet...",
+  "ans": [
+   "Autorijden"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Shun wil niet eten. Hij wil liever...",
+  "ans": [
+   "Drinken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Siham volgt een cursus. Ze leert...",
+  "ans": [
+   "Nederlands",
+   "Autorijden"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Simon bouwt een huis. Het huis wordt...",
+  "ans": [
+   "Groot",
+   "Mooi"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Simon wil leraar worden. Hij moet veel...",
+  "ans": [
+   "Studeren",
+   "Leren"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Simone leest graag een krant. Ze koopt hem...",
+  "ans": [
+   "Elke dag",
+   "Altijd"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sita geeft taart aan haar opa. Hij vindt dat...",
+  "ans": [
+   "Niet lekker",
+   "Lekker"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sjaak werkt in een fabriek. Daar werkt hij...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sonia zit in de bus. Ze gaat naar...",
+  "ans": [
+   "School",
+   "De stad",
+   "Het centrum"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sonya houdt van muziek. Ze luistert...",
+  "ans": [
+   "Naar Michael Jackson",
+   "Naar radio"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sophia houdt van rijst. Ze kookt dat...",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sophie is vaak in het bos. Ze kijkt graag naar...",
+  "ans": [
+   "Bomen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sou eet graag maïs. Ze eet maïs meestal met...",
+  "ans": [
+   "Kip",
+   "Vlees",
+   "Rijst"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Souad koopt bananen op de markt. Ze koopt ook...",
+  "ans": [
+   "Fruit",
+   "Ananas"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Stanley wil een groter huis. Hij wil ook...",
+  "ans": [
+   "Een auto",
+   "Een vrouw",
+   "Veel geld"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Stefan belt met zijn zus. Zijn zus is...",
+  "ans": [
+   "Niet blij",
+   "Niet thuis",
+   "In de stad",
+   "In trein"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Stefana vindt wandelen leuk. Ze doet dat...",
+  "ans": [
+   "Elke dag",
+   "Elk weekend"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Stephan moet sporten van de dokter. Hij gaat...",
+  "ans": [
+   "Voetballen",
+   "Fietsen",
+   "Tennissen",
+   "Zwemmen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Steven is in het ziekenhuis. Hij gaat morgen...",
+  "ans": [
+   "Naar huis"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sven komt uit het ziekenhuis. Hij is...",
+  "ans": [
+   "Blij",
+   "Met zijn vrouw",
+   "Niet ziek"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Sylvia is kapper. Ze moet vandaag veel...",
+  "ans": [
+   "Werken",
+   "Knippen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tamal moet remmen. Hij ziet een...",
+  "ans": [
+   "Kind",
+   "Andere auto",
+   "Een fiets"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tanya is bakker. Ze verkoopt...",
+  "ans": [
+   "Brood"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tara wil een motor kopen. Een motor is...",
+  "ans": [
+   "Leuk",
+   "Super"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tara zoekt werk. Ze kijkt in...",
+  "ans": [
+   "De krant"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tariq eet alleen. Hij vindt dat...",
+  "ans": [
+   "Leuk",
+   "Prima"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tess eet veel fruit. Fruit is...",
+  "ans": [
+   "Gezond",
+   "Lekker"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Thirza wil later in het ziekenhuis werken. Ze moet eerst...",
+  "ans": [
+   "Studeren",
+   "Opleiding doen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Thomas ligt in het ziekenhuis. Hij vindt dat...",
+  "ans": [
+   "Niet leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tim is jarig. Zijn zus geeft hem een...",
+  "ans": [
+   "Zoen",
+   "Cadeau"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tirza koopt een nieuw bed. Ze koopt ook...",
+  "ans": [
+   "Tafel",
+   "Stoel",
+   "Matras"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tony eet brood. Hij eet het brood met...",
+  "ans": [
+   "Kaas",
+   "Vlees"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Tuan zit op school. Hij heeft volgende week...",
+  "ans": [
+   "Een test",
+   "Toets",
+   "Examen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Veel mensen praten in de les. Nena vindt dat...",
+  "ans": [
+   "Leuk",
+   "Gezellig",
+   "Niet leuk",
+   "Niet goed"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Vera doet suiker in haar thee. Haar thee wordt zo...",
+  "ans": [
+   "Lekker",
+   "Niet lekker"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Victor heeft een nieuw huis. Hij gaat morgen...",
+  "ans": [
+   "Verhuizen",
+   "Huis schoonmaken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Wayan drinkt koffie met zijn buurman. Hij vindt dat...",
+  "ans": [
+   "Lekker",
+   "Leuk"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "We gaan mijn broer ophalen. Hij heeft geen...",
+  "ans": [
+   "Auto"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Wij willen wat leuks doen. We gaan...",
+  "ans": [
+   "Naar bioscoop",
+   "Naar film",
+   "Naar theater"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Wil je mijn huis zien? Ik woon hier...",
+  "ans": [
+   "Tien jaar"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Wil jij op mijn kinderen passen? Ik ga vanavond...",
+  "ans": [
+   "Naar bioscoop",
+   "Naar werk",
+   "Naar school"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "William neemt een drankje. Dat helpt tegen...",
+  "ans": [
+   "De dorst"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Xuan is in de supermarkt. Ze wil...",
+  "ans": [
+   "Eten kopen"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Yaira werkt bij een apotheek. Ze werkt daar...",
+  "ans": [
+   "Elke dag",
+   "Van negen tot vijf",
+   "Op zaterdag"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Younes heeft veel vrienden. Hij gaat vaak met ze naar...",
+  "ans": [
+   "Het café",
+   "De kroeg",
+   "Het park"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Yun eet 's ochtends niet veel. Ze eet dan alleen...",
+  "ans": [
+   "Brood",
+   "Yoghurt"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Zarina moet de vis eerst schoonmaken. Daarna gaat ze hem …",
+  "ans": [
+   "Eten",
+   "Bakken",
+   "Koken"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Zina kookt met veel kruiden. Zo wordt haar eten …",
+  "ans": [
+   "Lekker",
+   "Niet lekker"
+  ]
+ },
+ {
+  "part": "B",
+  "q": "Zola maakt het huis schoon. Ze doet dat …",
+  "ans": [
+   "Altijd",
+   "Elke dag"
+  ]
+ }
+]

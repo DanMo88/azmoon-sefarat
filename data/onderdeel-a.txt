@@ -1,0 +1,60 @@
+Bij wie gaat u wonen in Nederland?	Bij mijn partner, Bij ouders, Bij familie
+Hoe bent u hier gekomen?	(Met een) fiets, Bus, Trein, Auto, Taxi
+Hoe gaat het met u?	Goed, Prima, Uitstekend
+Hoe gaat u naar uw werk?	(Met een) fiets, Bus, Trein, Auto, Taxi
+Hoe laat begint u met werken?	Zeven uur, Tien uur
+Hoe laat gaat u 's avonds naar bed?	Zeven uur, Tien uur
+Hoe laat is het nu?	Zeven uur, Tien uur
+Hoe laat stopt u met werken?	Zeven uur, Tien uur
+Hoe laat wordt u 's ochtends wakker?	Zeven uur, Tien uur
+Hoe vaak bent u al in Nederland geweest?	Heel vaak, Twee keer, Tien keer
+Hoe vaak kijkt u tv?	Heel vaak, Elke dag
+Hoe vaak luistert u naar de radio?	Heel vaak, Elke dag
+Hoeveel broers en zussen hebt u?	Twee, Vijf, Tien
+Hoeveel dagen in de week werkt u?	Twee, Vijf
+Hoeveel jaar school hebt u gehad?	Vijf, Tien, Vijftien
+Hoeveel kinderen hebt u?	Twee, Vijf, Tien
+Hoeveel talen spreekt u?	Twee, Vijf, Tien
+In wat voor huis gaat u wonen in Nederland?	Groot huis, Mooi huis, Klein huis, Flat
+In welk land bent u geboren?	Japan, Syrië, Thailand, Indonesië
+In welke plaats gaat u wonen in Nederland?	Amsterdam, Rottum, Hoogeveen, Assen
+Met hoeveel mensen werkt u?	Twee, Vijf, Tien
+Naar welke muziek luistert u graag?	Popmuziek, Klassieke muziek
+Op welke dagen werkt u?	Maandag, Dinsdag, Woensdag
+Van welke muziek houdt u?	Popmuziek, Klassieke muziek
+Waar bent u geboren?	Japan, Syrië, Thailand, Indonesië
+Waar heeft u Nederlands geleerd?	Thuis, Op school
+Waar woont u?	Tokyo, Istanbul, Bangkok, Rio de Janeiro
+Waar woont uw familie?	Tokyo, Istanbul, Bangkok, Rio de Janeiro
+Waarom wilt u naar Nederland?	Nederland is mooi
+Wanneer bent u geboren?	Op 2 februari 1973
+Wanneer wilt u naar Nederland gaan?	Morgen, Volgende week, Over drie maanden
+Wat doet u graag met uw familie?	Eten, Drinken, Praten
+Wat doet u graag met uw vrienden?	Eten, Drinken, Praten
+Wat doet u in het weekend?	Eten, Drinken, Praten
+Wat doet u in uw vrije tijd?	Eten, Drinken, Praten
+Wat doet u op een feestdag?	Eten, Drinken, Praten
+Wat drinkt u graag?	Koffie, Thee, Bier
+Wat eet u 's avonds?	Patat, Rijst, Spaghetti
+Wat eet u 's ochtends?	Rijst, Brood
+Wat gaat u morgen doen?	Dat weet ik niet, Werken
+Wat hebt u geleerd op school?	Nederlands, Veel dingen
+Wat hebt u gisteren gedaan?	Veel dingen, Werken gewerkt
+Wat hebt u gisteren gegeten?	Patat, Rijst, Spaghetti
+Wat is uw adres?	Dorpstraat 2
+Wat is uw telefoonnummer?	0645310799
+Wat kookt u graag?	Patat, Rijst, Spaghetti
+Wat vindt u van de Nederlandse taal?	Moeilijk, Makkelijk
+Wat vindt u van Nederland?	Mooi, Leuk
+Wat vindt u van Nederlandse mensen?	Interessant, Groot, Klein
+Wat voor kleren draagt u vaak?	T-shirt, Broek, Schoenen
+Wat voor kleren vindt u mooi?	T-shirt, Broek, Schoenen
+Wat voor werk wilt u doen?	Alles is goed, Leraar, Schoonmaken, Administratie
+Wat wilt u graag leren in Nederland?	Nederlandse taal
+Welke dag is het vandaag?	Maandag, Dinsdag, Woensdag
+Welke dieren vindt u leuk?	Kikkers, Olifanten, Tijgers, Katten
+Welke kleur vindt u mooi?	Rood, Wit, Blauw
+Welke maand is het nu?	Januari, Februari, Maart
+Welke talen spreekt u?	Japans, Portugees, Arabisch, Engels
+Wie helpt u met Nederlands leren?	Mijn partner, Mijn docent
+Wie wonen bij u in huis?	Mijn ouders, Mijn broer, Mijn zus, Mijn partner
