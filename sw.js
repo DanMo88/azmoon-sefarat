@@ -10,7 +10,7 @@ self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return Promise.all(FILES.map(function (u) { return c.add(u).catch(function () {}); })); }).then(function () { return self.skipWaiting(); }));
 });
 self.addEventListener('activate', function (e) {
-  e.waitUntil(caches.keys().then(function (k) { return Promise.all(k.filter(function (x) { return x !== CACHE; }).map(function (x) { return caches.delete(x); })); }).then(function () { return self.clients.claim(); }));
+  e.waitUntil(caches.keys().then(function (k) { return Promise.all(k.filter(function (x) { return x.indexOf('azmoon-sefarat') === 0 && x !== CACHE; }).map(function (x) { return caches.delete(x); })); }).then(function () { return self.clients.claim(); }));
 });
 function put(req, res) { if (res && res.ok) { var cl = res.clone(); caches.open(CACHE).then(function (c) { c.put(req, cl); }); } return res; }
 self.addEventListener('fetch', function (e) {
