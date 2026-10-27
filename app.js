@@ -26,7 +26,8 @@ function home(){
  '<div class="hero"><img src="assets/img/hero.webp" alt="خانه‌های رنگی کنار کانال، آسیاب بادی و گل‌های لاله" width="1280" height="720">'+
  '<h1>آزمون سفارت</h1><p class="sub nl">Spreekvaardigheid A1 · Oefenexamens</p>'+BY+
  '<p class="lead">۴۰ آزمون تعاملی، هر کدام ۳۰ سؤال چهارگزینه‌ای، برای آمادگی کامل در آزمون گفتاری هلندی A1 در سفارت هلند. آن‌قدر تمرین کنید که روز امتحان با اعتمادبه‌نفس کامل جواب بدهید! 💪</p>'+
- '<a class="btn" href="#test-'+(nextTodo()+1)+'">شروع آزمون '+fa(nextTodo()+1)+'</a></div>'+
+ '<a class="btn" href="#test-'+(nextTodo()+1)+'">شروع آزمون '+fa(nextTodo()+1)+'</a>'+
+ '<div class="pwa-install inst-bar"><img src="assets/img/icon-192.png" alt="" width="46" height="46"><div class="it"><b>اپ آزمون سفارت</b><span>اندروید · آیفون · ویندوز · مک — بدون اینترنت هم کار می‌کند</span></div><button class="btn blue" data-install>📲 نصب اپ</button></div></div>'+
  '<div class="rule"></div>'+
  '<div class="card"><h2>آزمون سفارت چطور است؟</h2><div class="info"><img src="assets/img/speak.webp" alt="" width="120" height="90" loading="lazy"><div>'+
  '<p><span class="pill" style="background:#e8734a">بخش A</span>از شما <b>۱۰ سؤال</b> کوتاه دربارهٔ خودتان پرسیده می‌شود (مثلاً <span class="nl">Waar woont u?</span>).</p>'+

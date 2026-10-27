@@ -1,0 +1,45 @@
+{
+  "id": "/azmoon-sefarat/",
+  "name": "آزمون سفارت – Dutch A1",
+  "short_name": "آزمون سفارت",
+  "description": "۴۰ آزمون تعاملی برای آمادگی آزمون گفتاری هلندی A1 سفارت – ساخته شده توسط Daniel Mozafari",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/azmoon-sefarat/?source=pwa",
+  "scope": "/azmoon-sefarat/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffcf5",
+  "theme_color": "#fffcf5",
+  "icons": [
+    {
+      "src": "assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/img/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
